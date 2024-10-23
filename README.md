@@ -16,12 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ### My Socials
-  [**Linkedin**](https://www.linkedin.com/) |
-  [Hackerrank](https://www.hackerrank.com/) |
-  [LeetCode](https://leetcode.com/)
+  [**Linkedin**](https://www.linkedin.com/in/sreyasudheeran/) |
+  [Hackerrank](https://www.hackerrank.com/profile/sreyasudheeran) |
+  [LeetCode](https://leetcode.com/u/sreya_007/)
+
+[![An image of @sreyasudheeran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreyasudheeran)](https://holopin.io/@sreyasudheeran)
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{SreyaSudheeran}/count.svg" alt="Sreya Sudheeran Visitor's count" /></p>
+
+<p align="center">
+  <a href="https://github.com/SreyaSudheeran">
+    <img title="GithubStats" alt="Sreya's streak" src="https://streak-stats.demolab.com?user=SreyaSudheeran&theme=gotham&hide_border=true&mode=weekly"/>
+  </a>
+</p>
 
 <h4 align="center">Profile stats</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SreyaSudheeran&count_private=true&show_icons=true&theme=gotham" /></p>
